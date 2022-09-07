@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/repository-name/static/css/main.704adcc6.css",
-    "main.js": "/repository-name/static/js/main.d3e6f0e8.js",
-    "static/js/787.3f3181c9.chunk.js": "/repository-name/static/js/787.3f3181c9.chunk.js",
-    "static/media/sotsset-2048x1846.jpg": "/repository-name/static/media/sotsset-2048x1846.1441f3a19d9e7d64703b.jpg",
-    "static/media/printable-to-do-list-sq.webp": "/repository-name/static/media/printable-to-do-list-sq.835218e02f282b9d9008.webp",
-    "index.html": "/repository-name/index.html",
-    "main.704adcc6.css.map": "/repository-name/static/css/main.704adcc6.css.map",
-    "main.d3e6f0e8.js.map": "/repository-name/static/js/main.d3e6f0e8.js.map",
-    "787.3f3181c9.chunk.js.map": "/repository-name/static/js/787.3f3181c9.chunk.js.map"
+    "main.css": "/portfol/static/css/main.704adcc6.css",
+    "main.js": "/portfol/static/js/main.cfd73fb3.js",
+    "static/js/787.3f3181c9.chunk.js": "/portfol/static/js/787.3f3181c9.chunk.js",
+    "static/media/sotsset-2048x1846.jpg": "/portfol/static/media/sotsset-2048x1846.1441f3a19d9e7d64703b.jpg",
+    "static/media/printable-to-do-list-sq.webp": "/portfol/static/media/printable-to-do-list-sq.835218e02f282b9d9008.webp",
+    "index.html": "/portfol/index.html",
+    "main.704adcc6.css.map": "/portfol/static/css/main.704adcc6.css.map",
+    "main.cfd73fb3.js.map": "/portfol/static/js/main.cfd73fb3.js.map",
+    "787.3f3181c9.chunk.js.map": "/portfol/static/js/787.3f3181c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.704adcc6.css",
-    "static/js/main.d3e6f0e8.js"
+    "static/js/main.cfd73fb3.js"
   ]
 }

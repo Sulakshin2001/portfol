@@ -23,9 +23,9 @@ export const Work = () => {
 
 
                 <div className={s.project}>
-                    <Project title='Project 1' style={socialNetwork} name={'Social Network'} disription={
+                    <Project url={'https://github.com/Sulakshin2001/samurai-way-main'}  title='Project 1' style={socialNetwork} name={'Social Network'} disription={
                         'Project using Typescript,React,Redux,Axios,Thunk,Unit tests,BrowserRouter,Flux,Selector,Hooks,Git '}/>
-                    <Project title='Project 2' style={todolist} name={'ToDoList'} disription={
+                    <Project url={'https://github.com/Sulakshin2001/TodDoList'} title='Project 2' style={todolist} name={'ToDoList'} disription={
                         'Project using Typescript,React,Redux,Axios,Thunk,Unit tests,Flux,Hooks,git,Storybook '}/>
 
                 </div>

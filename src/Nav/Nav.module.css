@@ -1,0 +1,31 @@
+.nav {
+  /*  width: 300px;
+    display: flex;
+    justify-content:space-between;*/
+
+    position: fixed;
+    z-index: 3;
+    background-color: #f8f9fa;
+    width: 100%;
+    height: 80px;
+}
+.href{
+    color: #c6c9d8;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 20px;
+    display: inline-block;
+}
+a:active{
+    color:#ac0404;
+
+}
+a:hover {
+    color:#ac0404; /* Цвет ссылки при наведении на нее курсора мыши */
+}
+@media screen and (max-width: 412px){
+.href{
+    font-size: 12px;
+    padding: 10px;
+}
+}

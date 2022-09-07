@@ -1,0 +1,42 @@
+.work {
+    min-height: 105vh;
+    background-color:#f8f9fa;;
+    width: 100%;
+}
+
+.title{
+    font-size: 60px;
+    margin-bottom: 8px;
+    color: #f9004d;
+
+}
+.project{
+
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+@media screen and (max-width: 1266px){
+    .project{
+        justify-content:center;
+
+    }
+}
+.container{
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: column;
+
+
+}
+@media screen and (max-width: 632px){
+    h2{
+        margin-top: 0px;
+    }
+}

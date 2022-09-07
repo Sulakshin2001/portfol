@@ -1,0 +1,70 @@
+.mainBlock{
+   background-color:  white;
+
+    width: 100%;
+}
+
+
+
+.text{
+    max-width: 600px;
+    max-height: 430px;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+.photo{
+    margin-top: 100px;
+    max-height: 761px;
+    max-width: 460px;
+    border-radius: 18px;
+
+
+
+}
+.container{
+    height: 100%;
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap:wrap;
+}
+
+
+
+.name{
+    color: #1f1f25;
+    font-size: 60px;
+
+}
+.Nikita{
+    color: #f9004d;
+}
+@media screen and (max-width: 1341px){
+/*    .container{
+        padding:0 15% 0 15%
+
+
+
+
+    }*/
+.container{
+    justify-content: center;
+}}
+@media screen and (max-width: 800px){
+
+    .photo{
+        margin-top: 10px;
+        width: 300px;
+        height: 350px;
+        border-radius: 300px; /* Радиус скругления */ /* Параметры рамки */
+
+    }
+
+    .name{
+        font-size: 50px;
+    }
+
+}

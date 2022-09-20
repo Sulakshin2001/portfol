@@ -22,7 +22,7 @@ export const Main = () => {
                     <div>
 
                         <img className={styles.photo}
-                             src='https://sun9-57.userapi.com/impg/Xrsnqb3OM9UCbRJJZ14K7WORHL3o868yteGI1Q/s82TLmUVRwY.jpg?size=1197x1600&quality=96&sign=929ed3dcfc4d90fddeb2c67917b4e8db&type=album '/>
+                             src='https://sun1-96.userapi.com/impg/yugNyCAYo7g10TQSpDqgx2hhsVpmjWaYB2k_oQ/ubLCa5HnfCc.jpg?size=670x1080&quality=96&sign=27224cb53b615e507cc41daafde2d32a&type=album'/>
                     </div>
                 </Tilt>
 
